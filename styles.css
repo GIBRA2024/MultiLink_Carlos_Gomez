@@ -9,12 +9,15 @@ body {
 }
 
 .container {
+    background-image: url('Imagenes/Blue Minimalist Linktree Background (450 x 850 px)-1.png');
+    background-size: cover;
+    background-position: center;
     background-color: white;
     border-radius: 10px;
     padding: 20px;
     text-align: center;
     width: 450px;
-    height: 850px;
+    height: 880px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
@@ -25,7 +28,7 @@ body {
     margin-bottom: 10px;
 }
 
-h2 {
+h2, h3 {
     color: #173356;
     margin: 10px 0;
     margin-bottom: 20px;
