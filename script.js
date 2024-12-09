@@ -2,7 +2,7 @@ function descargarContacto() {
     const vcardData = `BEGIN:VCARD
 VERSION:3.0
 FN:Carlos Gomez GEB
-TEL:3218118202
+TEL:+57 3218118202
 EMAIL: carlos.gomez@eurobelleza.com
 NOTE: CEO
 END:VCARD`;
